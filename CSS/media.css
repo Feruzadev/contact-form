@@ -1,0 +1,24 @@
+@media(max-width:735px) {
+    .name-wrapper {
+        flex-direction: column;
+    }
+    .input-text{
+        width: 100%;
+    }
+    .input-email-add{
+        width: 100%;
+    }
+    .Enquiry{
+        flex-direction: column;
+    }
+    .Enquiry-wrapper {
+        width: 100%;
+    }
+    .sum {
+        width: 100%;
+        
+    }
+    .section{
+        height: 1000px;
+    }
+}
